@@ -1,5 +1,7 @@
-# Okeke-works
-#Classic countdown timer (My first project)
-click to visit website: [https://okeke11.github.io/Okeke-works/](https://okeke11.github.io/countdown-timer/)
+# Okeke-works: Classic Countdown Timer ⏳
 
-> *Note: This was my very first GitHub repository and project, so please don't mind me if it looks really bad!* 😂😂😂😂
+This was my very first project and GitHub repository! 🚀
+
+### 🔗 [Click here to visit the website](https://okeke11.github.io/Okeke-works/)
+
+> **Note:** Please don't mind me if it looks really bad—it was my day one! 😂😂😂 Moving from this to building spam classifiers and churn models has been quite the journey.
